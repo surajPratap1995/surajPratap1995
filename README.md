@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Masoom Rizvi</h1>
+<h1 align="center">Hi 👋, I'm Suraj Pratap Singh</h1>
 
 <div align="center">
   <img src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg" width="600" height="300"/>
