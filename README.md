@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Javascript,HTML,CSS**
 
-- 📫 How to reach me **masoom2313189@gmail.com**
+- 📫 How to reach me **advocatesurajpratap95@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/masoom-rizvi-a127b3235/]
+- 📄 Know about my experiences [https://www.linkedin.com/in/suraj-pratap-singh-9a6359236/]
 
 - ⚡ Fun fact **Fun Facts’ Are Never Fun**
 
